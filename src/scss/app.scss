@@ -1,0 +1,11 @@
+$bgc: green;
+
+body {
+  background-color: lighten($bgc, .75);
+}
+h1 {
+  color: white;
+  font-size: 10rem;
+  font-family: 'Open sans', sans-serif;
+  font-weight: 100;
+}
