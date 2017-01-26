@@ -1,7 +1,7 @@
-$bgc: green;
+$mybgc: green;
 
 body {
-  background-color: lighten($bgc, .75);
+  background-color: $mybgc;
 }
 h1 {
   color: white;
