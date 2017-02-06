@@ -1,0 +1,15 @@
+$mybgc: green;
+
+body {
+  background-color: $mybgc;
+}
+h1 {
+  color: white;
+  font-size: 5rem;
+  font-family: 'Open sans', sans-serif;
+  font-weight: 100;
+}
+
+h1:hover {
+  transition: color 1s ease;
+}
